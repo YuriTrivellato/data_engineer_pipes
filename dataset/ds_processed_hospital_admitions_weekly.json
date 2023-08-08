@@ -1,0 +1,27 @@
+{
+	"name": "ds_processed_hospital_admitions_weekly",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dl_covid_reportdl",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Data Lake/Processed"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "ecdc/hospital_admitions/weekly",
+				"fileSystem": "processed"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

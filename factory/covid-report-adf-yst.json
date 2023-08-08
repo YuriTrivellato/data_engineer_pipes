@@ -1,0 +1,9 @@
+{
+	"name": "covid-report-adf-yst",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e44578b-abf8-404b-adf5-8066e06a9af9",
+		"tenantId": "231e8ce9-3ffc-4213-bd5d-61ac09e07d17"
+	}
+}
