@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YuriTrivellato
-- 👀 I’m interested in coding and learning about it. :) I Currently work with Python, mainly with data.
-- 🌱 I’m currently learning Django, in other to go deeper into web development.
-- 💞️ I’m looking to collaborate on django/python projects.
+- 👀 :) I Currently work with SQL, Python and all its frameworks.
+- 💞️ I’m looking to collaborate on Data Engineering projects.
 - 📫 How to reach me: through here, or my twitter account: @yuritrivellato
 
 LET'S CODE, peeps.
